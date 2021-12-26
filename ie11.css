@@ -2,7 +2,7 @@ h1 {
 	font-family: 'Segoe UI';
 	margin: 0px;
 	font-size: 50px;
-	color: #ffffff;
+	color: #fff;
 }
 
 div {
@@ -13,7 +13,7 @@ div {
 	padding: 10px;
 	vertical-align: middle;
 	height: 66px;
-	background: #000000;
+	background-color: #000;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -24,7 +24,7 @@ h3 {
 
 #navigator {
 	height: 25px;
-	background: #6b6b6b;
+	background: #4f4f4f;
 }
 
 a {
@@ -34,7 +34,7 @@ a {
 }
 
 a:hover {
-	background: #4f4f4f
+	background: #6f6f6f
 }
 
 h2 {
